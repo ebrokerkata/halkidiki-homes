@@ -1,0 +1,508 @@
+{
+ "homes": [
+  {
+   "name": "Ilias House",
+   "village": "Nea Fokea",
+   "region": "Kassandra",
+   "photo": "photos/p0.jpg",
+   "video": null
+  },
+  {
+   "name": "Kronos House",
+   "village": "Nea Fokea",
+   "region": "Kassandra",
+   "photo": "photos/p1.jpg",
+   "video": null
+  },
+  {
+   "name": "Elenitsa House",
+   "village": "Nea Fokea",
+   "region": "Kassandra",
+   "photo": "photos/p2.jpg",
+   "video": null
+  },
+  {
+   "name": "Xenia House",
+   "village": "Nea Fokea",
+   "region": "Kassandra",
+   "photo": "photos/p3.jpg",
+   "video": null
+  },
+  {
+   "name": "Perla Apartment",
+   "village": "Afitos",
+   "region": "Kassandra",
+   "photo": "photos/p68.jpg",
+   "video": null
+  },
+  {
+   "name": "Maria House",
+   "village": "Afitos",
+   "region": "Kassandra",
+   "photo": "photos/p72.jpg",
+   "video": null
+  },
+  {
+   "name": "Irini Traditional House",
+   "village": "Afitos",
+   "region": "Kassandra",
+   "photo": "photos/p69.jpg",
+   "video": null
+  },
+  {
+   "name": "Anastasia House",
+   "village": "Afitos",
+   "region": "Kassandra",
+   "photo": "photos/p71.jpg",
+   "video": null
+  },
+  {
+   "name": "The Stone of Zeus Villa",
+   "village": "Afitos",
+   "region": "Kassandra",
+   "photo": "photos/p70.jpg",
+   "video": null
+  },
+  {
+   "name": "Deni Apartment",
+   "village": "Kallithea",
+   "region": "Kassandra",
+   "photo": "photos/p9.jpg",
+   "video": null
+  },
+  {
+   "name": "Stella Pool Apartment",
+   "village": "Kallithea",
+   "region": "Kassandra",
+   "photo": "photos/p10.jpg",
+   "video": null
+  },
+  {
+   "name": "White Lion Apartment",
+   "village": "Kallithea",
+   "region": "Kassandra",
+   "photo": "photos/p11.jpg",
+   "video": null
+  },
+  {
+   "name": "White Stone Villa",
+   "village": "Kallithea",
+   "region": "Kassandra",
+   "photo": "photos/p12.jpg",
+   "video": null
+  },
+  {
+   "name": "Calisea Villa",
+   "village": "Kallithea",
+   "region": "Kassandra",
+   "photo": "photos/p13.jpg",
+   "video": null
+  },
+  {
+   "name": "Sofa Bianca Maisonette",
+   "village": "Kriopigi",
+   "region": "Kassandra",
+   "photo": "photos/p14.jpg",
+   "video": null
+  },
+  {
+   "name": "Milos House",
+   "village": "Kriopigi",
+   "region": "Kassandra",
+   "photo": "photos/p15.jpg",
+   "video": null
+  },
+  {
+   "name": "Oliva Villa",
+   "village": "Kriopigi",
+   "region": "Kassandra",
+   "photo": "photos/p16.jpg",
+   "video": null
+  },
+  {
+   "name": "Natalia House",
+   "village": "Kriopigi",
+   "region": "Kassandra",
+   "photo": "photos/p17.jpg",
+   "video": null
+  },
+  {
+   "name": "Lindos Beach House",
+   "village": "Kriopigi",
+   "region": "Kassandra",
+   "photo": "photos/p18.jpg",
+   "video": null
+  },
+  {
+   "name": "Kyma House",
+   "village": "Polychrono",
+   "region": "Kassandra",
+   "photo": "photos/p19.jpg",
+   "video": null
+  },
+  {
+   "name": "Aliki Apartment",
+   "village": "Polychrono",
+   "region": "Kassandra",
+   "photo": "photos/p20.jpg",
+   "video": null
+  },
+  {
+   "name": "Camelia House",
+   "village": "Polychrono",
+   "region": "Kassandra",
+   "photo": "photos/p21.jpg",
+   "video": null
+  },
+  {
+   "name": "Elena Seafront House",
+   "village": "Polychrono",
+   "region": "Kassandra",
+   "photo": "photos/p22.jpg",
+   "video": null
+  },
+  {
+   "name": "Valentina House",
+   "village": "Polychrono",
+   "region": "Kassandra",
+   "photo": "photos/p23.jpg",
+   "video": null
+  },
+  {
+   "name": "Maximus Luxury Villas",
+   "village": "Polychrono",
+   "region": "Kassandra",
+   "photo": "photos/p24.jpg",
+   "video": null
+  },
+  {
+   "name": "Suzanna First Line Apartment",
+   "village": "Polychrono",
+   "region": "Kassandra",
+   "photo": "photos/p25.jpg",
+   "video": null
+  },
+  {
+   "name": "Niki Apartment",
+   "village": "Hanioti",
+   "region": "Kassandra",
+   "photo": "photos/p34.jpg",
+   "video": null
+  },
+  {
+   "name": "Paschalis Seafront Apartment",
+   "village": "Hanioti",
+   "region": "Kassandra",
+   "photo": "photos/p35.jpg",
+   "video": null
+  },
+  {
+   "name": "Christina House",
+   "village": "Hanioti",
+   "region": "Kassandra",
+   "photo": "photos/p38.jpg",
+   "video": null
+  },
+  {
+   "name": "Kelifos First Line House",
+   "village": "Hanioti",
+   "region": "Kassandra",
+   "photo": "photos/p36.jpg",
+   "video": null
+  },
+  {
+   "name": "Alkioni First Line Villa",
+   "village": "Hanioti",
+   "region": "Kassandra",
+   "photo": "photos/p37.jpg",
+   "video": null
+  },
+  {
+   "name": "Marina Pool Villa",
+   "village": "Hanioti",
+   "region": "Kassandra",
+   "photo": "photos/p76.jpg",
+   "video": null
+  },
+  {
+   "name": "Vero Mare Apartment",
+   "village": "Pefkochori",
+   "region": "Kassandra",
+   "photo": "photos/p39.jpg",
+   "video": null
+  },
+  {
+   "name": "Luna Garden House",
+   "village": "Pefkochori",
+   "region": "Kassandra",
+   "photo": "photos/p40.jpg",
+   "video": null
+  },
+  {
+   "name": "Palm Penthouse",
+   "village": "Pefkochori",
+   "region": "Kassandra",
+   "photo": "photos/p41.jpg",
+   "video": null
+  },
+  {
+   "name": "Petra House",
+   "village": "Pefkochori",
+   "region": "Kassandra",
+   "photo": "photos/p42.jpg",
+   "video": null
+  },
+  {
+   "name": "Haris House",
+   "village": "Pefkochori",
+   "region": "Kassandra",
+   "photo": "photos/p43.jpg",
+   "video": null
+  },
+  {
+   "name": "Victoria House",
+   "village": "Pefkochori",
+   "region": "Kassandra",
+   "photo": "photos/p75.jpg",
+   "video": null
+  },
+  {
+   "name": "Timos House",
+   "village": "Paliouri",
+   "region": "Kassandra",
+   "photo": "photos/p26.jpg",
+   "video": null
+  },
+  {
+   "name": "Aristotle Villa",
+   "village": "Paliouri",
+   "region": "Kassandra",
+   "photo": "photos/p27.jpg",
+   "video": null
+  },
+  {
+   "name": "Elysian Pool Villa",
+   "village": "Paliouri",
+   "region": "Kassandra",
+   "photo": "photos/p28.jpg",
+   "video": null
+  },
+  {
+   "name": "Despina Apartment",
+   "village": "Fourka",
+   "region": "Kassandra",
+   "photo": "photos/p44.jpg",
+   "video": null
+  },
+  {
+   "name": "Lilia Sea House",
+   "village": "Fourka",
+   "region": "Kassandra",
+   "photo": "photos/p45.jpg",
+   "video": null
+  },
+  {
+   "name": "Katerina Villa",
+   "village": "Fourka",
+   "region": "Kassandra",
+   "photo": "photos/p46.jpg",
+   "video": null
+  },
+  {
+   "name": "Vasilis Beach Villa",
+   "village": "Fourka",
+   "region": "Kassandra",
+   "photo": "photos/p47.jpg",
+   "video": null
+  },
+  {
+   "name": "Toula Beach Villa",
+   "village": "Fourka",
+   "region": "Kassandra",
+   "photo": "photos/p48.jpg",
+   "video": null
+  },
+  {
+   "name": "Alex Studio",
+   "village": "Siviri",
+   "region": "Kassandra",
+   "photo": "photos/p49.jpg",
+   "video": null
+  },
+  {
+   "name": "Alex Apartment",
+   "village": "Siviri",
+   "region": "Kassandra",
+   "photo": "photos/p50.jpg",
+   "video": null
+  },
+  {
+   "name": "Efi House",
+   "village": "Siviri",
+   "region": "Kassandra",
+   "photo": "photos/p51.jpg",
+   "video": null
+  },
+  {
+   "name": "Bora House",
+   "village": "Siviri",
+   "region": "Kassandra",
+   "photo": "photos/p52.jpg",
+   "video": null
+  },
+  {
+   "name": "Cleopatra Apartment",
+   "village": "Siviri",
+   "region": "Kassandra",
+   "photo": "photos/p53.jpg",
+   "video": null
+  },
+  {
+   "name": "Poseidon Seafront House",
+   "village": "Kassandra (small villages)",
+   "region": "Kassandra",
+   "photo": "photos/p54.jpg",
+   "video": null
+  },
+  {
+   "name": "Grand Family Villa",
+   "village": "Kassandra (small villages)",
+   "region": "Kassandra",
+   "photo": "photos/p55.jpg",
+   "video": null
+  },
+  {
+   "name": "Dimitra Villa Sea View",
+   "village": "Kassandra (small villages)",
+   "region": "Kassandra",
+   "photo": "photos/p56.jpg",
+   "video": null
+  },
+  {
+   "name": "Nemesis House",
+   "village": "Kassandra (small villages)",
+   "region": "Kassandra",
+   "photo": "photos/p57.jpg",
+   "video": null
+  },
+  {
+   "name": "Amara Villa",
+   "village": "Kassandra (small villages)",
+   "region": "Kassandra",
+   "photo": "photos/p58.jpg",
+   "video": null
+  },
+  {
+   "name": "Artemis House",
+   "village": "Nikiti",
+   "region": "Sithonia",
+   "photo": "photos/p29.jpg",
+   "video": null
+  },
+  {
+   "name": "Inoi House",
+   "village": "Nikiti",
+   "region": "Sithonia",
+   "photo": "photos/p30.jpg",
+   "video": null
+  },
+  {
+   "name": "Kostis House",
+   "village": "Nikiti",
+   "region": "Sithonia",
+   "photo": "photos/p31.jpg",
+   "video": null
+  },
+  {
+   "name": "Utopian Villa",
+   "village": "Nikiti",
+   "region": "Sithonia",
+   "photo": "photos/p32.jpg",
+   "video": null
+  },
+  {
+   "name": "Iliannas Villa",
+   "village": "Nikiti",
+   "region": "Sithonia",
+   "photo": "photos/p33.jpg",
+   "video": null
+  },
+  {
+   "name": "Fanis Beach House",
+   "village": "Sithonia (small villages)",
+   "region": "Sithonia",
+   "photo": "photos/p59.jpg",
+   "video": null
+  },
+  {
+   "name": "Armonia House",
+   "village": "Sithonia (small villages)",
+   "region": "Sithonia",
+   "photo": "photos/p60.jpg",
+   "video": null
+  },
+  {
+   "name": "Nerida House",
+   "village": "Sithonia (small villages)",
+   "region": "Sithonia",
+   "photo": "photos/p61.jpg",
+   "video": null
+  },
+  {
+   "name": "Theros House",
+   "village": "Sithonia (small villages)",
+   "region": "Sithonia",
+   "photo": "photos/p62.jpg",
+   "video": null
+  },
+  {
+   "name": "Karamela House",
+   "village": "Sithonia (small villages)",
+   "region": "Sithonia",
+   "photo": "photos/p63.jpg",
+   "video": null
+  },
+  {
+   "name": "Blue Wave House",
+   "village": "Athos",
+   "region": "Athos",
+   "photo": "photos/p64.jpg",
+   "video": null
+  },
+  {
+   "name": "Olympia Villa",
+   "village": "Athos",
+   "region": "Athos",
+   "photo": "photos/p65.jpg",
+   "video": null
+  },
+  {
+   "name": "Polyni Villa",
+   "village": "Athos",
+   "region": "Athos",
+   "photo": "photos/p66.jpg",
+   "video": null
+  },
+  {
+   "name": "Adam Sea View Villa",
+   "village": "Athos",
+   "region": "Athos",
+   "photo": "photos/p67.jpg",
+   "video": null
+  },
+  {
+   "name": "Helios Seafront Villa",
+   "village": "Thasos",
+   "region": "Thasos",
+   "photo": "photos/p73.jpg",
+   "video": null
+  },
+  {
+   "name": "Spyros Villa",
+   "village": "Thasos",
+   "region": "Thasos",
+   "photo": "photos/p74.jpg",
+   "video": null
+  }
+ ]
+}
